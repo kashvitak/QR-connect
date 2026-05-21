@@ -54,7 +54,7 @@ cd backend
 npm start
 ```
 
-Your application will now be running at: **http://localhost:3000**
+Your application will now be running at: **https://qr-connect-ugz7.onrender.com**
 
 ---
 
